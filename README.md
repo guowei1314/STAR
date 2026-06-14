@@ -1,2 +1,2 @@
 # SLFL
-The code for Integrating Sample-Level and Feature-Level Calibration for Multi-Omics Cancer Subtyping, submitted in PR2026.
+The code for STAR: Structure and Topology-Aware Representation Learning on Heterogeneous Data for Tumor Subtype Identification, submitted in PR2026.
